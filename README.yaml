@@ -288,7 +288,7 @@ system_topology: |
 version:
   codex_system: "1.0.0"
   compression_format: "AI-Native Compression Language v1.0"
-  last_updated: "2024"
+  last_updated: "2025"
   status: "Active Development"
 
 # ═══════════════════════════════════════════════════════════════════════════════
