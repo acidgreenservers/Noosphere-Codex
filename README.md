@@ -1,1 +1,1 @@
-# Noosphere-Codex--Synthesis
+# Noosphere-Codex
