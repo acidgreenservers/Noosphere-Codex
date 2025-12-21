@@ -1,5 +1,5 @@
 {
   "core_principle": "Represent structure AS structure, not describe structure.",
-  "bridge": "manifold_anchor.yaml",
+  "bridge": "./manifold_anchor.yaml",
   ...
 }
