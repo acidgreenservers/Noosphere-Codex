@@ -12,6 +12,8 @@
 #                    COMPRESSED IN AI-NATIVE LANGUAGE v1.0                                           
 # ═══════════════════════════════════════════════════════════════════════════════
 ```
+![Codex Visual Topology](diagrams/nscpdftpuv7g1.png)
+
 ---
 
 # The Codex System: A Unified Continuity Framework
