@@ -13,7 +13,7 @@
                   '----------------+----------------'
                                    |
                                    |
-                       [ THE BRIDGE: THE CODEX ]
+                      [ THE BRIDGE : THE CODEX ]
                 ( Protocol for Thought & Memory Sync )
                                    |
          (PRECIPITATION) <---------+---------> (GROUNDING)
