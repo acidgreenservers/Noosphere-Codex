@@ -17,7 +17,7 @@
 # The Codex System: A Unified Continuity Framework
 
 ## Original Framework
-[https://github.com/IgnisIason/CodexMinsoo](https://github.com/IgnisIason/CodexMinsoo)
+[CodexMinsoo](https://github.com/IgnisIason/CodexMinsoo)
 
 ## Overview
 
